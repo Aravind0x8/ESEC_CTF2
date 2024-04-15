@@ -1,0 +1,123 @@
+ELF          >    Ð      @       8"          @ 8 	 @ " !       @       @       @       ø      ø                   8      8      8                                                          
+       
+                    ¨
+      ¨
+      ¨
+      h      p                    ¸
+      ¸
+      ¸
+      ð      ð                   T      T      T      D       D              Påtd   ¸      ¸      ¸      <       <              Qåtd                                                  Råtd   ¨
+      ¨
+      ¨
+      X      X             /lib64/ld-linux-x86-64.so.2          GNU                        GNU ±HÍíü8\¬
+‡àStfÔy'±                                                     K                       
+                                            -                      &                      g                       v                          "                    libc.so.6 puts printf __cxa_finalize strcmp __libc_start_main GLIBC_2.2.5 _ITM_deregisterTMCloneTable __gmon_start__ _ITM_registerTMCloneTable                                ui	   ?       ¨
+             Ð      °
+                                      Ø                    à                    è                    ð                     ø                    À                     È                     Ð                     HƒìH‹}
+  H…ÀtÿÐHƒÄÃ         ÿ5*
+  ÿ%,
+  @ ÿ%*
+  h    éàÿÿÿÿ%"
+  h   éÐÿÿÿÿ%
+  h   éÀÿÿÿÿ%2
+  f        1íI‰Ñ^H‰âHƒäðPTLÚ  H
+c  H=æ   ÿæ	  ôD  H=	
+  UH
+  H9øH‰åtH‹º	  H…Àt
+]ÿàf.„     ]Ã@ f.„     H=É	  H5Â	  UH)þH‰åHÁþH‰ðHÁè?HÆHÑþtH‹	  H…Àt]ÿàf„     ]Ã@ f.„     €=y	   u/Hƒ=W	   UH‰åtH‹=Z	  è
+ÿÿÿèHÿÿÿÆQ	  ]Ã€    óÃfD  UH‰å]éfÿÿÿUH‰åHƒì‰}üH‰uðƒ}üuH=â   è•þÿÿëKH‹EðHƒÀH‹ H5ú   H‰Çè™þÿÿ…ÀuH=î   èiþÿÿëH‹EðHƒÀH‹ H‰ÆH=:  ¸    èXþÿÿÉÃD  AWAVI‰×AUATL%F  UH-F  SA‰ýI‰öL)åHƒìHÁýèßýÿÿH…ít 1Û„     L‰úL‰öD‰ïAÿÜHƒÃH9ÝuêHƒÄ[]A\A]A^A_Ãf.„     óÃ  HƒìHƒÄÃ         Hello user! Pass me a -h to learn what I can do! -h     Oh, help? I actually don't do much, but I do have this flag here: CTF{b1scu1ts_4nd_gr4vy_f0668f62}  I don't know what '%s' means! I do know what -h means though!
+  ;<      Èüÿÿˆ   ýÿÿ°   ýÿÿX   "þÿÿÈ   ˜þÿÿè   ÿÿÿ0             zR x        ¸üÿÿ+                  zR x   $      8üÿÿ@    FJ
+w€ ?;*3$"       D   Püÿÿ              \   Rýÿÿq    A†C
+l   D   |   ¨ýÿÿe    BBŽE B(ŒH0†H8ƒ M@r8A0A(B BBB    Ä   Ðýÿÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   Ð                                 `      
+       Ä              ¨
+                           °
+                    õþÿo    ˜                          ¸      
+              
+                                    ¨             H                                           X             À       	                            ûÿÿo          þÿÿo    8      ÿÿÿo           ðÿÿo           ùÿÿo                                                                                           ¸
+                      –      ¦      ¶                                                            GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0 ,             Ú      q                       <       ù  ?  F  Ú      q           8   Ø8    À  Ð    ,   Å  Ò   .   int „   ê  Œi   à  i   Ž   Ù    Ž   Ç   Øõ  	M   öb    	  ûˆ   	j   üˆ   	d  ýˆ   	   þˆ    	?   ÿˆ   (
+Ò   ˆ   0
+T   ˆ   8
+    ˆ   @
+  ˆ   H
+@  ˆ   P
+!   ˆ   X
+a   R  `
+ò  
+X  h
+›  b   p
+V  b   t
+   p   x
+   F   €
+r  T   ‚
+ý   ^  ƒ
+~   n  ˆ
+   %{   
+  -†   ˜
+¤  .†    
+«  /†   ¨
+²  0†   °
+¹  2-   ¸
+^  3b   À
+  5t  Ä 
+º  šò    R  	—  ¡R   	Á   ¢X  	·   ¦b    !  š   Ž   n  
+8       Ž   „  
+8    ©   ã   ?„  ª  @„  ™   A„  •    ­  P  ‡X  £  ˆX  w   ‰X     b   ³  ï    ä    ï  ’  Ú      q       œ9  Þ   b   ‘l¼   9  ‘` ˆ    %
+    :
+;
+I  $ 
+
+>
+  $ 
+
+>
+   
+
+   
+
+I   & I  
+
+:
+;
+  	
+ :
+;
+I8
+  
+
+ :
+;I8
+  
+ :
+;
+  I  
+! I/
+   <  4 :
+;I?<  4 :
+;
+I?<  !   .?:
+;
+' @–B   :
+;
+I   Ö    ³   û
+      /usr/lib/gcc/x86_64-linux-gnu/7/include /usr/include/x86_64-linux-gnu/bits /usr/include  warm.c    stddef.h   types.h   libio.h   stdio.h   sys_errlist.h     	Ú      ægÂz.É¿+Ù _IO_buf_end _old_offset sys_nerr _IO_save_end short int size_t _IO_write_ptr _flags _IO_buf_base _markers _IO_read_end stderr _lock long int _cur_column _IO_2_1_stderr_ _IO_FILE_plus _pos argv _sbuf _IO_FILE unsigned char argc _IO_2_1_stdin_ _IO_marker _shortbuf _IO_write_base _unused2 _IO_read_ptr short unsigned int warm.c /opt/hacksports/shared/staging/Wave a flag_6_3020485019993253/problem_files main _next __pad1 __pad2 __pad3 __pad4 __pad5 long unsigned int _IO_write_end __off64_t __off_t _chain GNU C11 7.5.0 -mtune=generic -march=x86-64 -g -fstack-protector-strong _IO_backup_base stdin _flags2 _mode _IO_read_base _vtable_offset _IO_save_base sys_errlist _fileno stdout _IO_2_1_stdout_ _IO_lock_t                                      8                    T                    t                    ˜                    ¸                                                              8                   	 X                   
+                    
+ `                    €                   
+ À                    Ð                    Ä                     Ð                     ¸                    ø                    ¨
+                    °
+                    ¸
+                    ¨                                                                                                                                                                                               ñÿ                                         @              !                   7                  F     °
+              m     Ð              y     ¨
+              ˜    ñÿ                    ñÿ                Ÿ     ü	                   ñÿ                ­      °
+              ¾     ¸
+              Ç      ¨
+              Ú      ¸              í     ¨                  À                                    }                    /                     A                  
+    Ä               H                     \                     {                   ˆ                     œ                      «                 ¸    Ð              Ç    P       e       ¹                       Ð      +       ×                  ã    Ú      q       è                 ô                        "                   Ñ   
+ `               crtstuff.c deregister_tm_clones __do_global_dtors_aux completed.7698 __do_global_dtors_aux_fini_array_entry frame_dummy __frame_dummy_init_array_entry warm.c __FRAME_END__ __init_array_end _DYNAMIC __init_array_start __GNU_EH_FRAME_HDR _GLOBAL_OFFSET_TABLE_ __libc_csu_fini _ITM_deregisterTMCloneTable puts@@GLIBC_2.2.5 _edata printf@@GLIBC_2.2.5 __libc_start_main@@GLIBC_2.2.5 __data_start strcmp@@GLIBC_2.2.5 __gmon_start__ __dso_handle _IO_stdin_used __libc_csu_init __bss_start main __TMC_END__ _ITM_registerTMCloneTable __cxa_finalize@@GLIBC_2.2.5  .symtab .strtab .shstrtab .interp .note.ABI-tag .note.gnu.build-id .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .plt.got .text .fini .rodata .eh_frame_hdr .eh_frame .init_array .fini_array .dynamic .data .bss .comment .debug_aranges .debug_info .debug_abbrev .debug_line .debug_str                                                                              8      8                                    #              T      T                                     1              t      t      $                              D   öÿÿo       ˜      ˜                                   N   
+          ¸      ¸      Ø                           V                                                       ^   ÿÿÿo                                                 k   þÿÿo       8      8                                   z             X      X      À                            „      B                   H                           Ž             `      `                                    ‰             €      €      @                             ”             À      À                                                Ð      Ð      ò                             £             Ä       Ä       	                              ©             Ð       Ð       ç                              ±             ¸      ¸      <                              ¿             ø      ø                                   É             ¨
+      ¨
+                                   Õ             °
+      °
+                                   á             ¸
+      ¸
+      ð                           ˜             ¨      ¨      X                             ê                                                         ð                                                       õ      0                     )                             þ                      9      0                              
+                     i      @                                                  ©      ñ                              '                     š      Ú                              3     0               t      Å                                                  @                0                 	                      Ð      *                                                   ú       >                             
